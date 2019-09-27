@@ -8,7 +8,7 @@ REST API
 The REST API allows you to query MQTT clients, sessions, subscriptions, and routes. You can also query and monitor the metrics and statistics of the broker.
 
 --------
-Base URL
+Base URL SRK
 --------
 
 All REST APIs in the documentation have the following base URL::
